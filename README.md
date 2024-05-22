@@ -19,7 +19,7 @@ Install Python 3.x from the official website.
       pip install opencv-python numpy
       
 ## How to Use
-#Encrypt a Message:
+## Encrypt a Message:
 1. Enter the path of the image file.
 2. Enter the secret message you want to hide.
 3. Enter a password for encryption.
@@ -34,7 +34,7 @@ The application will display the hidden message if the correct password is provi
 ## Code Explanation
 The code is divided into several parts:
 
-# Imports and Initialization:
+## Imports and Initialization:
 Import necessary libraries: Tkinter, OpenCV, messagebox, and string.
 Initialize the main window and global variables.
 
